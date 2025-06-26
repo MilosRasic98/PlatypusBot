@@ -1,7 +1,7 @@
 # PlatypusBot
 You’ve heard of the TurtleBot, but get ready to meet the PlatypusBot! The idea is making a TurtleBot style robot but by using any means necessary, in my case, parts from a broken vacuum cleaner!
 
-![PlatypusBot Stage 2](IMG_1648.JPG)
+![PlatypusBot Stage 2](IMG_1648.jpg)
 
 ## Plan
 Robot vacuum cleaners have become extremely popular and they can be found for not much money, especially if there is something wrong with them! The thing that most oftenly dies on them is the battery, so the rest of the electronics are solid. If you think about it, these little robots that cost from a 100$ and upward are pretty good little robots. They are able to navigate houses and apartments based only on a bump sensor in the front, with the higher end models haiving fancy things like LIDAR and even robot arms! This all means that you can find them extremely cheap if the battery is gone. I found mine for 10$ looking brand new except the battery.
