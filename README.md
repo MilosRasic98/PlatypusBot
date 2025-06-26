@@ -11,11 +11,11 @@ This means that we have a pretty good source of cheap robotics parts that we can
 ## Video 1 - Making the PlatypusBot
 In the first video I concentrate on making the most basic construction that we will use to build upon our robot and ugprade it further. The goal for this video was to dissassemble the broken robot vacuum cleaner and pull out all of the useful parts, and then make that into a wirelessly controlled robotic platform. Here are the links for the video and the blog.
 
-### VIDEO
-TODO - Video link
+### VIDEO[
+https://youtu.be/1JZ3xP942HA?si=DFT3S7q6ZO4tUtq8
 
 ### BLOG
-TODO - Element14 community link
+https://community.element14.com/challenges-projects/element14-presents/project-videos/w/documents/71934/platypusbot---scavenging-for-robotics-parts----episode-671?ICID=HP-671-PlatypusBot-Scavenging-for-Robotics-Parts-JUN25-WF4102410
 
 After a quick dissassembly, here are all of the parts that I pulled that I plan to save for my projects. Just to repeat, the robot vacuum I found was 10$ because of the bad battery, besides that, everything else looked flawless.
 
